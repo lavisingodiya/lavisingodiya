@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm LAVI SINGODIYA
+# Hey there! 👋 I'm Lavi Singodiya
 
 👩‍💻 As a student developer, I'm on a mission to transform ideas into code-driven innovations. My curiosity fuels my tech exploration, and I'm always seeking new challenges.
 
