@@ -20,8 +20,6 @@ I'm Lavi Singodiya, a passionate self-taught full stack web developer from India
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=lavisingodiya&theme=radical)
 
-[//]: <> (## Badges)
-[//]: <> ([![An image of @lavisingodiya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lavisingodiya)](https://holopin.io/@lavisingodiya))
 
 ## 🚀 Languages and Tools
 
