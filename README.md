@@ -9,8 +9,6 @@ I'm Lavi Singodiya, a passionate self-taught full stack web developer from India
 - 🤔 I’m looking for help with **Flutter**, as I'm interested in building mobile apps with this framework.
 - 💬 Ask me about **Python**, which is my favorite programming language and the one I use most frequently.
 - 📫 You can reach me on [**LinkedIn**](https://linkedin.com/in/lavisingodiya). Let's connect!
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: I'm a big fan of Marvel and love watching superhero movies and TV shows.
 
 ## 📊 My GitHub Stats
 
