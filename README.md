@@ -20,7 +20,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=lavisingodiya&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lavisingodiya&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lavisingodiya&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-[![YashveerSingh1062's GitHub | Stats](https://stats.quine.sh/lavisingodiya/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=lavisingodiya)
+[![LaviSingodiya's GitHub | Stats](https://stats.quine.sh/lavisingodiya/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=lavisingodiya)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=lavisingodiya&theme=gitdimmed&no-frame=false&no-bg=true&margin-w=4)
